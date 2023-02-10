@@ -1,9 +1,5 @@
 {
   "values": [
-    "minecraft:mossy_cobblestone",
-    "minecraft:mossy_cobblestone_slab",
-    "minecraft:mossy_cobblestone_stairs",
-    "minecraft:mossy_cobblestone_wall",
     {
       "id": "graveyard:mossy_cobblestone_gravestone",
       "required": false
@@ -11,6 +7,10 @@
     {
       "id": "enchanted-vertical-slabs:vertical_mossy_cobblestone_slab",
       "required": false
-    }
+    },
+    "minecraft:mossy_cobblestone",
+    "minecraft:mossy_cobblestone_slab",
+    "minecraft:mossy_cobblestone_stairs",
+    "minecraft:mossy_cobblestone_wall"
   ]
 }
