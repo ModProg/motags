@@ -1,0 +1,45 @@
+motags:
+  tags:
+    items:
+      material:
+        minecraft:
+          cobblestone:
+            values:
+              minecraft:
+                - cobblestone
+                - cobblestone_slab
+                - cobblestone_stairs
+                - cobblestone_wall
+              enchanted-vertical-slabs:
+                - id: vertical_cobblestone_slab
+                  required: false
+              graveyard:
+                - id: cobblestone_gravestone
+                  required: false
+          mossy_cobblestone:
+            values:
+              minecraft:
+                - mossy_cobblestone
+                - mossy_cobblestone_slab
+                - mossy_cobblestone_stairs
+                - mossy_cobblestone_wall
+              enchanted-vertical-slabs:
+                - id: vertical_mossy_cobblestone_slab
+                  required: false
+              graveyard:
+                - id: mossy_cobblestone_gravestone
+                  required: false
+        twigs:
+          cobblestone_bricks:
+            values:
+              twigs:
+                - cobblestone_bricks
+                - cobblestone_brick_slab
+                - cobblestone_brick_stairs
+                - cobblestone_brick_wall
+                - cracked_cobblestone_brick_wall
+                - mossy_cobblestone_bricks
+                - mossy_cobblestone_brick_slab
+                - mossy_cobblestone_brick_stairs
+                - mossy_cobblestone_brick_wall
+

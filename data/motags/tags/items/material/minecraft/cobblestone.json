@@ -1,0 +1,16 @@
+{
+  "values": [
+    {
+      "id": "enchanted-vertical-slabs:vertical_cobblestone_slab",
+      "required": false
+    },
+    "minecraft:cobblestone",
+    "minecraft:cobblestone_slab",
+    "minecraft:cobblestone_stairs",
+    "minecraft:cobblestone_wall",
+    {
+      "id": "graveyard:cobblestone_gravestone",
+      "required": false
+    }
+  ]
+}
