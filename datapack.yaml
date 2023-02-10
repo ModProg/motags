@@ -1,0 +1,44 @@
+pack.mcmeta:
+  pack:
+    pack_format: 10,
+    description: 'More Tags'
+data/motags/tags/items:
+  material:
+    minecraft:
+      cobblestone.json:
+        values:
+          - !namespaced minecraft:
+                - cobblestone
+                - cobblestone_slab
+                - cobblestone_stairs
+                - cobblestone_wall
+          - id: enchanted-vertical-slabs:vertical_cobblestone_slab
+            required: false
+
+          - id: graveyard:cobblestone_gravestone
+            required: false
+      mossy_cobblestone.json:
+        values:
+          - !namespaced minecraft:
+              - mossy_cobblestone
+              - mossy_cobblestone_slab
+              - mossy_cobblestone_stairs
+              - mossy_cobblestone_wall
+          - id: enchanted-vertical-slabs:vertical_mossy_cobblestone_slab
+            required: false
+
+          - id: graveyard:mossy_cobblestone_gravestone
+            required: false
+    twigs:
+      cobblestone_bricks.json:
+        values:
+          - !namespaced twigs:
+            - cobblestone_bricks
+            - cobblestone_brick_slab
+            - cobblestone_brick_stairs
+            - cobblestone_brick_wall
+            - cracked_cobblestone_bricks
+            - mossy_cobblestone_bricks
+            - mossy_cobblestone_brick_slab
+            - mossy_cobblestone_brick_stairs
+            - mossy_cobblestone_brick_wall

@@ -1,7 +1,6 @@
-
 {
-    "pack": {
-        "pack_format": 10,
-        "description": "More Tags"
-    }
+  "pack": {
+    "description": "More Tags",
+    "pack_format": "10,"
+  }
 }
