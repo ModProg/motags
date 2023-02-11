@@ -1,6 +1,6 @@
 pack.mcmeta:
   pack:
-    pack_format: 10,
+    pack_format: 10
     description: 'More Tags'
 data/motags/tags/items:
   material:
@@ -8,10 +8,10 @@ data/motags/tags/items:
       cobblestone.json:
         values:
           - !namespaced minecraft:
-                - cobblestone
-                - cobblestone_slab
-                - cobblestone_stairs
-                - cobblestone_wall
+              - cobblestone
+              - cobblestone_slab
+              - cobblestone_stairs
+              - cobblestone_wall
           - id: enchanted-vertical-slabs:vertical_cobblestone_slab
             required: false
 
@@ -29,16 +29,109 @@ data/motags/tags/items:
 
           - id: graveyard:mossy_cobblestone_gravestone
             required: false
+      birch.json:
+        values:
+          - !namespaced
+            minecraft:
+              - birch_planks
+              - birch_log
+              - stripped_birch_log
+              - stripped_birch_wood
+              - birch_wood
+              - birch_slab
+              - birch_fence
+              - birch_stairs
+              - birch_button
+              - birch_pressure_plate
+              - birch_door
+              - birch_trapdoor
+              - birch_fence_gate
+              - birch_boat
+              - birch_chest_boat
+              - birch_sign
+            # TODO make optional
+            betternether:
+              - birch_taburet
+              - birch_chair
+              - birch_bar_stool
+            another_furniture:
+              - birch_chair
+              - birch_shelf
+              - birch_table
+              - birch_shutter
+              - birch_planter_box
+              - birch_bench
+              - birch_drawer
+            beautify:
+              - birch_trellis
+              - birch_blinds
+              - birch_picture_frame
+            campchair:
+              - birch_camp_chair
+            create:
+              - birch_window
+              - birch_window_pane
+            decorative_blocks:
+              - birch_beam
+              - birch_seat
+              - birch_support
+              - birch_palisade
+            enchanted-vertical-slabs:
+              - vertical_birch_slab
+            farmersdelight:
+              - birch_cabinet
+            graveyard:
+              - birch_coffin
+            halfdoors:
+              - birch_halfdoor
+            handcrafted:
+              - birch_board
+              - birch_chair
+              - birch_table
+              - birch_bench
+              - birch_couch
+              - birch_fancy_bed
+              - birch_dining_bench
+              - birch_nightstand
+              - birch_desk
+              - birch_side_table
+              - birch_counter
+              - birch_drawer
+              - birch_cupboard
+              - birch_shelf
+              - birch_pillar_trim
+              - birch_corner_trim
+            mcwfences:
+              - birch_picket_fence
+              - birch_stockade_fence
+              - birch_horse_fence
+              - birch_wired_fence
+              - birch_highley_gate
+              - birch_pyramid_gate
+            mcwlights:
+              - birch_tiki_torch
+              - soul_birch_tiki_torch
+            twigs:
+              - birch_table
+            twilightforest:
+              - birch_banister
+              - hollow_birch_log_vertical
+            wunderreich:
+              - birch_wall
+            snowyspirit:
+              - sled_birch
+            supplementaries:
+              - hanging_sign_birch
     twigs:
       cobblestone_bricks.json:
         values:
           - !namespaced twigs:
-            - cobblestone_bricks
-            - cobblestone_brick_slab
-            - cobblestone_brick_stairs
-            - cobblestone_brick_wall
-            - cracked_cobblestone_bricks
-            - mossy_cobblestone_bricks
-            - mossy_cobblestone_brick_slab
-            - mossy_cobblestone_brick_stairs
-            - mossy_cobblestone_brick_wall
+              - cobblestone_bricks
+              - cobblestone_brick_slab
+              - cobblestone_brick_stairs
+              - cobblestone_brick_wall
+              - cracked_cobblestone_bricks
+              - mossy_cobblestone_bricks
+              - mossy_cobblestone_brick_slab
+              - mossy_cobblestone_brick_stairs
+              - mossy_cobblestone_brick_wall
