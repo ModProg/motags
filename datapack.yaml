@@ -797,8 +797,6 @@ data/motags/tags/items:
               - crimson_door
               - crimson_trapdoor
               - crimson_fence_gate
-              - crimson_boat
-              - crimson_chest_boat
               - crimson_sign
           - !optionalTag
             - !namespaced # TODO make optional
@@ -806,6 +804,9 @@ data/motags/tags/items:
                 - crimson_taburet
                 - crimson_chair
                 - crimson_bar_stool
+                - crimson_boat
+                - crimson_chest
+                - crimson_chest_boat
               another_furniture:
                 - crimson_chair
                 - crimson_shelf
@@ -892,8 +893,6 @@ data/motags/tags/items:
               - warped_door
               - warped_trapdoor
               - warped_fence_gate
-              - warped_boat
-              - warped_chest_boat
               - warped_sign
           - !optionalTag
             - !namespaced # TODO make optional
@@ -901,6 +900,9 @@ data/motags/tags/items:
                 - warped_taburet
                 - warped_chair
                 - warped_bar_stool
+                - warped_boat
+                - warped_chest
+                - warped_chest_boat
               another_furniture:
                 - warped_chair
                 - warped_shelf

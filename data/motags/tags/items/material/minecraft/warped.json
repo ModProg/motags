@@ -13,8 +13,6 @@
     "minecraft:warped_door",
     "minecraft:warped_trapdoor",
     "minecraft:warped_fence_gate",
-    "minecraft:warped_boat",
-    "minecraft:warped_chest_boat",
     "minecraft:warped_sign",
     {
       "id": "betternether:warped_taburet",
@@ -26,6 +24,18 @@
     },
     {
       "id": "betternether:warped_bar_stool",
+      "required": false
+    },
+    {
+      "id": "betternether:warped_boat",
+      "required": false
+    },
+    {
+      "id": "betternether:warped_chest",
+      "required": false
+    },
+    {
+      "id": "betternether:warped_chest_boat",
       "required": false
     },
     {

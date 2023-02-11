@@ -13,8 +13,6 @@
     "minecraft:crimson_door",
     "minecraft:crimson_trapdoor",
     "minecraft:crimson_fence_gate",
-    "minecraft:crimson_boat",
-    "minecraft:crimson_chest_boat",
     "minecraft:crimson_sign",
     {
       "id": "betternether:crimson_taburet",
@@ -26,6 +24,18 @@
     },
     {
       "id": "betternether:crimson_bar_stool",
+      "required": false
+    },
+    {
+      "id": "betternether:crimson_boat",
+      "required": false
+    },
+    {
+      "id": "betternether:crimson_chest",
+      "required": false
+    },
+    {
+      "id": "betternether:crimson_chest_boat",
       "required": false
     },
     {
