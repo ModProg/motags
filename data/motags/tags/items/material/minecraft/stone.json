@@ -1,0 +1,65 @@
+{
+  "values": [
+    "minecraft:stone",
+    "minecraft:stone_stairs",
+    "minecraft:stone_slab",
+    "minecraft:stone_pressure_plate",
+    "minecraft:stone_button",
+    {
+      "id": "yigd:grave",
+      "required": false
+    },
+    {
+      "id": "supplementaries:stone_lamp",
+      "required": false
+    },
+    {
+      "id": "handcrafted:witch_trophy",
+      "required": false
+    },
+    {
+      "id": "handcrafted:vindicator_trphy",
+      "required": false
+    },
+    {
+      "id": "handcrafted:stone_pillar_trim",
+      "required": false
+    },
+    {
+      "id": "handcrafted:stone_corner_trim",
+      "required": false
+    },
+    {
+      "id": "handcrafted:skeleton_trophy",
+      "required": false
+    },
+    {
+      "id": "handcrafted:pillagaer_trophy",
+      "required": false
+    },
+    {
+      "id": "handcrafted:evoker_trophy",
+      "required": false
+    },
+    {
+      "id": "handcrafted:creeper_trophy",
+      "required": false
+    },
+    {
+      "id": "twilightforest:twisted_stone",
+      "required": false
+    },
+    {
+      "id": "twilightforest:bold_stone_pillar",
+      "required": false
+    },
+    {
+      "id": "enchanted-vertical-slabs:vertical_stone_slab",
+      "required": false
+    },
+    {
+      "id": "decorative_blocks:stone_pillar",
+      "required": false
+    }
+  ]
+}

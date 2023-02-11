@@ -1,0 +1,236 @@
+{
+  "values": [
+    "minecraft:dark_oak_planks",
+    "minecraft:dark_oak_log",
+    "minecraft:stripped_dark_oak_log",
+    "minecraft:stripped_dark_oak_wood",
+    "minecraft:dark_oak_wood",
+    "minecraft:dark_oak_slab",
+    "minecraft:dark_oak_fence",
+    "minecraft:dark_oak_stairs",
+    "minecraft:dark_oak_button",
+    "minecraft:dark_oak_pressure_plate",
+    "minecraft:dark_oak_door",
+    "minecraft:dark_oak_trapdoor",
+    "minecraft:dark_oak_fence_gate",
+    "minecraft:dark_oak_boat",
+    "minecraft:dark_oak_chest_boat",
+    "minecraft:dark_oak_sign",
+    {
+      "id": "betternether:dark_oak_taburet",
+      "required": false
+    },
+    {
+      "id": "betternether:dark_oak_chair",
+      "required": false
+    },
+    {
+      "id": "betternether:dark_oak_bar_stool",
+      "required": false
+    },
+    {
+      "id": "another_furniture:dark_oak_chair",
+      "required": false
+    },
+    {
+      "id": "another_furniture:dark_oak_shelf",
+      "required": false
+    },
+    {
+      "id": "another_furniture:dark_oak_table",
+      "required": false
+    },
+    {
+      "id": "another_furniture:dark_oak_shutter",
+      "required": false
+    },
+    {
+      "id": "another_furniture:dark_oak_planter_box",
+      "required": false
+    },
+    {
+      "id": "another_furniture:dark_oak_bench",
+      "required": false
+    },
+    {
+      "id": "another_furniture:dark_oak_drawer",
+      "required": false
+    },
+    {
+      "id": "beautify:dark_oak_trellis",
+      "required": false
+    },
+    {
+      "id": "beautify:dark_oak_blinds",
+      "required": false
+    },
+    {
+      "id": "beautify:dark_oak_picture_frame",
+      "required": false
+    },
+    {
+      "id": "campchair:dark_oak_camp_chair",
+      "required": false
+    },
+    {
+      "id": "create:dark_oak_window",
+      "required": false
+    },
+    {
+      "id": "create:dark_oak_window_pane",
+      "required": false
+    },
+    {
+      "id": "decorative_blocks:dark_oak_beam",
+      "required": false
+    },
+    {
+      "id": "decorative_blocks:dark_oak_seat",
+      "required": false
+    },
+    {
+      "id": "decorative_blocks:dark_oak_support",
+      "required": false
+    },
+    {
+      "id": "decorative_blocks:dark_oak_palisade",
+      "required": false
+    },
+    {
+      "id": "enchanted-vertical-slabs:vertical_dark_oak_slab",
+      "required": false
+    },
+    {
+      "id": "farmersdelight:dark_oak_cabinet",
+      "required": false
+    },
+    {
+      "id": "graveyard:dark_oak_coffin",
+      "required": false
+    },
+    {
+      "id": "halfdoors:dark_oak_halfdoor",
+      "required": false
+    },
+    {
+      "id": "handcrafted:dark_oak_board",
+      "required": false
+    },
+    {
+      "id": "handcrafted:dark_oak_chair",
+      "required": false
+    },
+    {
+      "id": "handcrafted:dark_oak_table",
+      "required": false
+    },
+    {
+      "id": "handcrafted:dark_oak_bench",
+      "required": false
+    },
+    {
+      "id": "handcrafted:dark_oak_couch",
+      "required": false
+    },
+    {
+      "id": "handcrafted:dark_oak_fancy_bed",
+      "required": false
+    },
+    {
+      "id": "handcrafted:dark_oak_dining_bench",
+      "required": false
+    },
+    {
+      "id": "handcrafted:dark_oak_nightstand",
+      "required": false
+    },
+    {
+      "id": "handcrafted:dark_oak_desk",
+      "required": false
+    },
+    {
+      "id": "handcrafted:dark_oak_side_table",
+      "required": false
+    },
+    {
+      "id": "handcrafted:dark_oak_counter",
+      "required": false
+    },
+    {
+      "id": "handcrafted:dark_oak_drawer",
+      "required": false
+    },
+    {
+      "id": "handcrafted:dark_oak_cupboard",
+      "required": false
+    },
+    {
+      "id": "handcrafted:dark_oak_shelf",
+      "required": false
+    },
+    {
+      "id": "handcrafted:dark_oak_pillar_trim",
+      "required": false
+    },
+    {
+      "id": "handcrafted:dark_oak_corner_trim",
+      "required": false
+    },
+    {
+      "id": "mcwfences:dark_oak_picket_fence",
+      "required": false
+    },
+    {
+      "id": "mcwfences:dark_oak_stockade_fence",
+      "required": false
+    },
+    {
+      "id": "mcwfences:dark_oak_horse_fence",
+      "required": false
+    },
+    {
+      "id": "mcwfences:dark_oak_wired_fence",
+      "required": false
+    },
+    {
+      "id": "mcwfences:dark_oak_highley_gate",
+      "required": false
+    },
+    {
+      "id": "mcwfences:dark_oak_pyramid_gate",
+      "required": false
+    },
+    {
+      "id": "mcwlights:dark_oak_tiki_torch",
+      "required": false
+    },
+    {
+      "id": "mcwlights:soul_dark_oak_tiki_torch",
+      "required": false
+    },
+    {
+      "id": "twigs:dark_oak_table",
+      "required": false
+    },
+    {
+      "id": "twilightforest:dark_oak_banister",
+      "required": false
+    },
+    {
+      "id": "twilightforest:hollow_dark_oak_log_vertical",
+      "required": false
+    },
+    {
+      "id": "wunderreich:dark_oak_wall",
+      "required": false
+    },
+    {
+      "id": "snowyspirit:sled_dark_oak",
+      "required": false
+    },
+    {
+      "id": "supplementaries:hanging_sign_dark_oak",
+      "required": false
+    }
+  ]
+}

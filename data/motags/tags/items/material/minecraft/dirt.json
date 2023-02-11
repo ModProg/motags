@@ -1,0 +1,30 @@
+{
+  "values": [
+    "minecraft:dirt",
+    "minecraft:coarse_dirt",
+    {
+      "id": "wunderreich:dirt_slab",
+      "required": false
+    },
+    {
+      "id": "wunderreich:coarse_dirt_slab",
+      "required": false
+    },
+    {
+      "id": "vinery:dirt_slab",
+      "required": false
+    },
+    {
+      "id": "vinery:coarse_dirt_slab",
+      "required": false
+    },
+    {
+      "id": "twigs:rocky_dirt",
+      "required": false
+    },
+    {
+      "id": "decorative_blocks:rocky_dirt",
+      "required": false
+    }
+  ]
+}

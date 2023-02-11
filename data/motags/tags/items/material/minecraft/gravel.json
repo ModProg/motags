@@ -1,0 +1,9 @@
+{
+  "values": [
+    "minecraft:gravel",
+    {
+      "id": "supplementaries:raked_gravel",
+      "required": false
+    }
+  ]
+}

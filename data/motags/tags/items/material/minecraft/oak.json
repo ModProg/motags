@@ -1,0 +1,236 @@
+{
+  "values": [
+    "minecraft:oak_planks",
+    "minecraft:oak_log",
+    "minecraft:stripped_oak_log",
+    "minecraft:stripped_oak_wood",
+    "minecraft:oak_wood",
+    "minecraft:oak_slab",
+    "minecraft:oak_fence",
+    "minecraft:oak_stairs",
+    "minecraft:oak_button",
+    "minecraft:oak_pressure_plate",
+    "minecraft:oak_door",
+    "minecraft:oak_trapdoor",
+    "minecraft:oak_fence_gate",
+    "minecraft:oak_boat",
+    "minecraft:oak_chest_boat",
+    "minecraft:oak_sign",
+    {
+      "id": "betternether:oak_taburet",
+      "required": false
+    },
+    {
+      "id": "betternether:oak_chair",
+      "required": false
+    },
+    {
+      "id": "betternether:oak_bar_stool",
+      "required": false
+    },
+    {
+      "id": "another_furniture:oak_chair",
+      "required": false
+    },
+    {
+      "id": "another_furniture:oak_shelf",
+      "required": false
+    },
+    {
+      "id": "another_furniture:oak_table",
+      "required": false
+    },
+    {
+      "id": "another_furniture:oak_shutter",
+      "required": false
+    },
+    {
+      "id": "another_furniture:oak_planter_box",
+      "required": false
+    },
+    {
+      "id": "another_furniture:oak_bench",
+      "required": false
+    },
+    {
+      "id": "another_furniture:oak_drawer",
+      "required": false
+    },
+    {
+      "id": "beautify:oak_trellis",
+      "required": false
+    },
+    {
+      "id": "beautify:oak_blinds",
+      "required": false
+    },
+    {
+      "id": "beautify:oak_picture_frame",
+      "required": false
+    },
+    {
+      "id": "campchair:oak_camp_chair",
+      "required": false
+    },
+    {
+      "id": "create:oak_window",
+      "required": false
+    },
+    {
+      "id": "create:oak_window_pane",
+      "required": false
+    },
+    {
+      "id": "decorative_blocks:oak_beam",
+      "required": false
+    },
+    {
+      "id": "decorative_blocks:oak_seat",
+      "required": false
+    },
+    {
+      "id": "decorative_blocks:oak_support",
+      "required": false
+    },
+    {
+      "id": "decorative_blocks:oak_palisade",
+      "required": false
+    },
+    {
+      "id": "enchanted-vertical-slabs:vertical_oak_slab",
+      "required": false
+    },
+    {
+      "id": "farmersdelight:oak_cabinet",
+      "required": false
+    },
+    {
+      "id": "graveyard:oak_coffin",
+      "required": false
+    },
+    {
+      "id": "halfdoors:oak_halfdoor",
+      "required": false
+    },
+    {
+      "id": "handcrafted:oak_board",
+      "required": false
+    },
+    {
+      "id": "handcrafted:oak_chair",
+      "required": false
+    },
+    {
+      "id": "handcrafted:oak_table",
+      "required": false
+    },
+    {
+      "id": "handcrafted:oak_bench",
+      "required": false
+    },
+    {
+      "id": "handcrafted:oak_couch",
+      "required": false
+    },
+    {
+      "id": "handcrafted:oak_fancy_bed",
+      "required": false
+    },
+    {
+      "id": "handcrafted:oak_dining_bench",
+      "required": false
+    },
+    {
+      "id": "handcrafted:oak_nightstand",
+      "required": false
+    },
+    {
+      "id": "handcrafted:oak_desk",
+      "required": false
+    },
+    {
+      "id": "handcrafted:oak_side_table",
+      "required": false
+    },
+    {
+      "id": "handcrafted:oak_counter",
+      "required": false
+    },
+    {
+      "id": "handcrafted:oak_drawer",
+      "required": false
+    },
+    {
+      "id": "handcrafted:oak_cupboard",
+      "required": false
+    },
+    {
+      "id": "handcrafted:oak_shelf",
+      "required": false
+    },
+    {
+      "id": "handcrafted:oak_pillar_trim",
+      "required": false
+    },
+    {
+      "id": "handcrafted:oak_corner_trim",
+      "required": false
+    },
+    {
+      "id": "mcwfences:oak_picket_fence",
+      "required": false
+    },
+    {
+      "id": "mcwfences:oak_stockade_fence",
+      "required": false
+    },
+    {
+      "id": "mcwfences:oak_horse_fence",
+      "required": false
+    },
+    {
+      "id": "mcwfences:oak_wired_fence",
+      "required": false
+    },
+    {
+      "id": "mcwfences:oak_highley_gate",
+      "required": false
+    },
+    {
+      "id": "mcwfences:oak_pyramid_gate",
+      "required": false
+    },
+    {
+      "id": "mcwlights:oak_tiki_torch",
+      "required": false
+    },
+    {
+      "id": "mcwlights:soul_oak_tiki_torch",
+      "required": false
+    },
+    {
+      "id": "twigs:oak_table",
+      "required": false
+    },
+    {
+      "id": "twilightforest:oak_banister",
+      "required": false
+    },
+    {
+      "id": "twilightforest:hollow_oak_log_vertical",
+      "required": false
+    },
+    {
+      "id": "wunderreich:oak_wall",
+      "required": false
+    },
+    {
+      "id": "snowyspirit:sled_oak",
+      "required": false
+    },
+    {
+      "id": "supplementaries:hanging_sign_oak",
+      "required": false
+    }
+  ]
+}

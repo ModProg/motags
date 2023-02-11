@@ -1,0 +1,121 @@
+{
+  "values": [
+    "minecraft:tuff",
+    {
+      "id": "twigs:tuff_wall",
+      "required": false
+    },
+    {
+      "id": "twigs:tuff_stairs",
+      "required": false
+    },
+    {
+      "id": "twigs:tuff_slab",
+      "required": false
+    },
+    {
+      "id": "twigs:polished_tuff",
+      "required": false
+    },
+    {
+      "id": "twigs:polished_tuff_stairs",
+      "required": false
+    },
+    {
+      "id": "twigs:polished_tuff_slab",
+      "required": false
+    },
+    {
+      "id": "twigs:polished_tuff_bricks",
+      "required": false
+    },
+    {
+      "id": "twigs:polished_tuff_brick_wall",
+      "required": false
+    },
+    {
+      "id": "twigs:polished_tuff_brick_stairs",
+      "required": false
+    },
+    {
+      "id": "twigs:polished_tuff_brick_slab",
+      "required": false
+    },
+    {
+      "id": "twigs:cracked_polished_tuff_bricks",
+      "required": false
+    },
+    {
+      "id": "create:layered_tuff",
+      "required": false
+    },
+    {
+      "id": "create:cut_tuff_wall",
+      "required": false
+    },
+    {
+      "id": "create:cut_tuff_stairs",
+      "required": false
+    },
+    {
+      "id": "create:cut_tuff_slab",
+      "required": false
+    },
+    {
+      "id": "create:cut_tuff",
+      "required": false
+    },
+    {
+      "id": "create:cut_tuff_bricks",
+      "required": false
+    },
+    {
+      "id": "create:cut_tuff_brick_wall",
+      "required": false
+    },
+    {
+      "id": "create:cut_tuff_brick_stairs",
+      "required": false
+    },
+    {
+      "id": "create:cut_tuff_brick_slab",
+      "required": false
+    },
+    {
+      "id": "create:polished_cut_tuff",
+      "required": false
+    },
+    {
+      "id": "create:polished_cut_tuff_stairs",
+      "required": false
+    },
+    {
+      "id": "create:polished_cut_tuff_slab",
+      "required": false
+    },
+    {
+      "id": "create:polished_cut_tuff_wall",
+      "required": false
+    },
+    {
+      "id": "create:small_tuff_bricks",
+      "required": false
+    },
+    {
+      "id": "create:small_tuff_brick_stairs",
+      "required": false
+    },
+    {
+      "id": "create:small_tuff_brick_slab",
+      "required": false
+    },
+    {
+      "id": "create:small_tuff_brick_wall",
+      "required": false
+    },
+    {
+      "id": "create:tuff_pillar",
+      "required": false
+    }
+  ]
+}

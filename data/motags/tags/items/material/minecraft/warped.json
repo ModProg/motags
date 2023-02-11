@@ -1,0 +1,240 @@
+{
+  "values": [
+    "minecraft:warped_planks",
+    "minecraft:warped_stem",
+    "minecraft:stripped_warped_stem",
+    "minecraft:stripped_warped_hyphae",
+    "minecraft:warped_hyphae",
+    "minecraft:warped_slab",
+    "minecraft:warped_fence",
+    "minecraft:warped_stairs",
+    "minecraft:warped_button",
+    "minecraft:warped_pressure_plate",
+    "minecraft:warped_door",
+    "minecraft:warped_trapdoor",
+    "minecraft:warped_fence_gate",
+    "minecraft:warped_boat",
+    "minecraft:warped_chest_boat",
+    "minecraft:warped_sign",
+    {
+      "id": "betternether:warped_taburet",
+      "required": false
+    },
+    {
+      "id": "betternether:warped_chair",
+      "required": false
+    },
+    {
+      "id": "betternether:warped_bar_stool",
+      "required": false
+    },
+    {
+      "id": "another_furniture:warped_chair",
+      "required": false
+    },
+    {
+      "id": "another_furniture:warped_shelf",
+      "required": false
+    },
+    {
+      "id": "another_furniture:warped_table",
+      "required": false
+    },
+    {
+      "id": "another_furniture:warped_shutter",
+      "required": false
+    },
+    {
+      "id": "another_furniture:warped_planter_box",
+      "required": false
+    },
+    {
+      "id": "another_furniture:warped_bench",
+      "required": false
+    },
+    {
+      "id": "another_furniture:warped_drawer",
+      "required": false
+    },
+    {
+      "id": "beautify:warped_trellis",
+      "required": false
+    },
+    {
+      "id": "beautify:warped_blinds",
+      "required": false
+    },
+    {
+      "id": "beautify:warped_picture_frame",
+      "required": false
+    },
+    {
+      "id": "campchair:warped_camp_chair",
+      "required": false
+    },
+    {
+      "id": "create:warped_window",
+      "required": false
+    },
+    {
+      "id": "create:warped_window_pane",
+      "required": false
+    },
+    {
+      "id": "decorative_blocks:warped_beam",
+      "required": false
+    },
+    {
+      "id": "decorative_blocks:warped_seat",
+      "required": false
+    },
+    {
+      "id": "decorative_blocks:warped_support",
+      "required": false
+    },
+    {
+      "id": "decorative_blocks:warped_palisade",
+      "required": false
+    },
+    {
+      "id": "enchanted-vertical-slabs:vertical_warped_slab",
+      "required": false
+    },
+    {
+      "id": "farmersdelight:warped_cabinet",
+      "required": false
+    },
+    {
+      "id": "graveyard:warped_coffin",
+      "required": false
+    },
+    {
+      "id": "halfdoors:warped_halfdoor",
+      "required": false
+    },
+    {
+      "id": "handcrafted:warped_board",
+      "required": false
+    },
+    {
+      "id": "handcrafted:warped_chair",
+      "required": false
+    },
+    {
+      "id": "handcrafted:warped_table",
+      "required": false
+    },
+    {
+      "id": "handcrafted:warped_bench",
+      "required": false
+    },
+    {
+      "id": "handcrafted:warped_couch",
+      "required": false
+    },
+    {
+      "id": "handcrafted:warped_fancy_bed",
+      "required": false
+    },
+    {
+      "id": "handcrafted:warped_dining_bench",
+      "required": false
+    },
+    {
+      "id": "handcrafted:warped_nightstand",
+      "required": false
+    },
+    {
+      "id": "handcrafted:warped_desk",
+      "required": false
+    },
+    {
+      "id": "handcrafted:warped_side_table",
+      "required": false
+    },
+    {
+      "id": "handcrafted:warped_counter",
+      "required": false
+    },
+    {
+      "id": "handcrafted:warped_drawer",
+      "required": false
+    },
+    {
+      "id": "handcrafted:warped_cupboard",
+      "required": false
+    },
+    {
+      "id": "handcrafted:warped_shelf",
+      "required": false
+    },
+    {
+      "id": "handcrafted:warped_pillar_trim",
+      "required": false
+    },
+    {
+      "id": "handcrafted:warped_corner_trim",
+      "required": false
+    },
+    {
+      "id": "mcwfences:warped_picket_fence",
+      "required": false
+    },
+    {
+      "id": "mcwfences:warped_stockade_fence",
+      "required": false
+    },
+    {
+      "id": "mcwfences:warped_horse_fence",
+      "required": false
+    },
+    {
+      "id": "mcwfences:warped_wired_fence",
+      "required": false
+    },
+    {
+      "id": "mcwfences:warped_highley_gate",
+      "required": false
+    },
+    {
+      "id": "mcwfences:warped_pyramid_gate",
+      "required": false
+    },
+    {
+      "id": "mcwlights:warped_tiki_torch",
+      "required": false
+    },
+    {
+      "id": "mcwlights:soul_warped_tiki_torch",
+      "required": false
+    },
+    {
+      "id": "twigs:warped_table",
+      "required": false
+    },
+    {
+      "id": "twigs:warped_shroomlamp",
+      "required": false
+    },
+    {
+      "id": "twilightforest:warped_banister",
+      "required": false
+    },
+    {
+      "id": "twilightforest:hollow_warped_log_vertical",
+      "required": false
+    },
+    {
+      "id": "wunderreich:warped_wall",
+      "required": false
+    },
+    {
+      "id": "snowyspirit:sled_warped",
+      "required": false
+    },
+    {
+      "id": "supplementaries:hanging_sign_warped",
+      "required": false
+    }
+  ]
+}

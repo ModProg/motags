@@ -1,0 +1,236 @@
+{
+  "values": [
+    "minecraft:acacia_planks",
+    "minecraft:acacia_log",
+    "minecraft:stripped_acacia_log",
+    "minecraft:stripped_acacia_wood",
+    "minecraft:acacia_wood",
+    "minecraft:acacia_slab",
+    "minecraft:acacia_fence",
+    "minecraft:acacia_stairs",
+    "minecraft:acacia_button",
+    "minecraft:acacia_pressure_plate",
+    "minecraft:acacia_door",
+    "minecraft:acacia_trapdoor",
+    "minecraft:acacia_fence_gate",
+    "minecraft:acacia_boat",
+    "minecraft:acacia_chest_boat",
+    "minecraft:acacia_sign",
+    {
+      "id": "betternether:acacia_taburet",
+      "required": false
+    },
+    {
+      "id": "betternether:acacia_chair",
+      "required": false
+    },
+    {
+      "id": "betternether:acacia_bar_stool",
+      "required": false
+    },
+    {
+      "id": "another_furniture:acacia_chair",
+      "required": false
+    },
+    {
+      "id": "another_furniture:acacia_shelf",
+      "required": false
+    },
+    {
+      "id": "another_furniture:acacia_table",
+      "required": false
+    },
+    {
+      "id": "another_furniture:acacia_shutter",
+      "required": false
+    },
+    {
+      "id": "another_furniture:acacia_planter_box",
+      "required": false
+    },
+    {
+      "id": "another_furniture:acacia_bench",
+      "required": false
+    },
+    {
+      "id": "another_furniture:acacia_drawer",
+      "required": false
+    },
+    {
+      "id": "beautify:acacia_trellis",
+      "required": false
+    },
+    {
+      "id": "beautify:acacia_blinds",
+      "required": false
+    },
+    {
+      "id": "beautify:acacia_picture_frame",
+      "required": false
+    },
+    {
+      "id": "campchair:acacia_camp_chair",
+      "required": false
+    },
+    {
+      "id": "create:acacia_window",
+      "required": false
+    },
+    {
+      "id": "create:acacia_window_pane",
+      "required": false
+    },
+    {
+      "id": "decorative_blocks:acacia_beam",
+      "required": false
+    },
+    {
+      "id": "decorative_blocks:acacia_seat",
+      "required": false
+    },
+    {
+      "id": "decorative_blocks:acacia_support",
+      "required": false
+    },
+    {
+      "id": "decorative_blocks:acacia_palisade",
+      "required": false
+    },
+    {
+      "id": "enchanted-vertical-slabs:vertical_acacia_slab",
+      "required": false
+    },
+    {
+      "id": "farmersdelight:acacia_cabinet",
+      "required": false
+    },
+    {
+      "id": "graveyard:acacia_coffin",
+      "required": false
+    },
+    {
+      "id": "halfdoors:acacia_halfdoor",
+      "required": false
+    },
+    {
+      "id": "handcrafted:acacia_board",
+      "required": false
+    },
+    {
+      "id": "handcrafted:acacia_chair",
+      "required": false
+    },
+    {
+      "id": "handcrafted:acacia_table",
+      "required": false
+    },
+    {
+      "id": "handcrafted:acacia_bench",
+      "required": false
+    },
+    {
+      "id": "handcrafted:acacia_couch",
+      "required": false
+    },
+    {
+      "id": "handcrafted:acacia_fancy_bed",
+      "required": false
+    },
+    {
+      "id": "handcrafted:acacia_dining_bench",
+      "required": false
+    },
+    {
+      "id": "handcrafted:acacia_nightstand",
+      "required": false
+    },
+    {
+      "id": "handcrafted:acacia_desk",
+      "required": false
+    },
+    {
+      "id": "handcrafted:acacia_side_table",
+      "required": false
+    },
+    {
+      "id": "handcrafted:acacia_counter",
+      "required": false
+    },
+    {
+      "id": "handcrafted:acacia_drawer",
+      "required": false
+    },
+    {
+      "id": "handcrafted:acacia_cupboard",
+      "required": false
+    },
+    {
+      "id": "handcrafted:acacia_shelf",
+      "required": false
+    },
+    {
+      "id": "handcrafted:acacia_pillar_trim",
+      "required": false
+    },
+    {
+      "id": "handcrafted:acacia_corner_trim",
+      "required": false
+    },
+    {
+      "id": "mcwfences:acacia_picket_fence",
+      "required": false
+    },
+    {
+      "id": "mcwfences:acacia_stockade_fence",
+      "required": false
+    },
+    {
+      "id": "mcwfences:acacia_horse_fence",
+      "required": false
+    },
+    {
+      "id": "mcwfences:acacia_wired_fence",
+      "required": false
+    },
+    {
+      "id": "mcwfences:acacia_highley_gate",
+      "required": false
+    },
+    {
+      "id": "mcwfences:acacia_pyramid_gate",
+      "required": false
+    },
+    {
+      "id": "mcwlights:acacia_tiki_torch",
+      "required": false
+    },
+    {
+      "id": "mcwlights:soul_acacia_tiki_torch",
+      "required": false
+    },
+    {
+      "id": "twigs:acacia_table",
+      "required": false
+    },
+    {
+      "id": "twilightforest:acacia_banister",
+      "required": false
+    },
+    {
+      "id": "twilightforest:hollow_acacia_log_vertical",
+      "required": false
+    },
+    {
+      "id": "wunderreich:acacia_wall",
+      "required": false
+    },
+    {
+      "id": "snowyspirit:sled_acacia",
+      "required": false
+    },
+    {
+      "id": "supplementaries:hanging_sign_acacia",
+      "required": false
+    }
+  ]
+}

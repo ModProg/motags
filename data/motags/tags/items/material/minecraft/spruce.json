@@ -1,0 +1,236 @@
+{
+  "values": [
+    "minecraft:spruce_planks",
+    "minecraft:spruce_log",
+    "minecraft:stripped_spruce_log",
+    "minecraft:stripped_spruce_wood",
+    "minecraft:spruce_wood",
+    "minecraft:spruce_slab",
+    "minecraft:spruce_fence",
+    "minecraft:spruce_stairs",
+    "minecraft:spruce_button",
+    "minecraft:spruce_pressure_plate",
+    "minecraft:spruce_door",
+    "minecraft:spruce_trapdoor",
+    "minecraft:spruce_fence_gate",
+    "minecraft:spruce_boat",
+    "minecraft:spruce_chest_boat",
+    "minecraft:spruce_sign",
+    {
+      "id": "betternether:spruce_taburet",
+      "required": false
+    },
+    {
+      "id": "betternether:spruce_chair",
+      "required": false
+    },
+    {
+      "id": "betternether:spruce_bar_stool",
+      "required": false
+    },
+    {
+      "id": "another_furniture:spruce_chair",
+      "required": false
+    },
+    {
+      "id": "another_furniture:spruce_shelf",
+      "required": false
+    },
+    {
+      "id": "another_furniture:spruce_table",
+      "required": false
+    },
+    {
+      "id": "another_furniture:spruce_shutter",
+      "required": false
+    },
+    {
+      "id": "another_furniture:spruce_planter_box",
+      "required": false
+    },
+    {
+      "id": "another_furniture:spruce_bench",
+      "required": false
+    },
+    {
+      "id": "another_furniture:spruce_drawer",
+      "required": false
+    },
+    {
+      "id": "beautify:spruce_trellis",
+      "required": false
+    },
+    {
+      "id": "beautify:spruce_blinds",
+      "required": false
+    },
+    {
+      "id": "beautify:spruce_picture_frame",
+      "required": false
+    },
+    {
+      "id": "campchair:spruce_camp_chair",
+      "required": false
+    },
+    {
+      "id": "create:spruce_window",
+      "required": false
+    },
+    {
+      "id": "create:spruce_window_pane",
+      "required": false
+    },
+    {
+      "id": "decorative_blocks:spruce_beam",
+      "required": false
+    },
+    {
+      "id": "decorative_blocks:spruce_seat",
+      "required": false
+    },
+    {
+      "id": "decorative_blocks:spruce_support",
+      "required": false
+    },
+    {
+      "id": "decorative_blocks:spruce_palisade",
+      "required": false
+    },
+    {
+      "id": "enchanted-vertical-slabs:vertical_spruce_slab",
+      "required": false
+    },
+    {
+      "id": "farmersdelight:spruce_cabinet",
+      "required": false
+    },
+    {
+      "id": "graveyard:spruce_coffin",
+      "required": false
+    },
+    {
+      "id": "halfdoors:spruce_halfdoor",
+      "required": false
+    },
+    {
+      "id": "handcrafted:spruce_board",
+      "required": false
+    },
+    {
+      "id": "handcrafted:spruce_chair",
+      "required": false
+    },
+    {
+      "id": "handcrafted:spruce_table",
+      "required": false
+    },
+    {
+      "id": "handcrafted:spruce_bench",
+      "required": false
+    },
+    {
+      "id": "handcrafted:spruce_couch",
+      "required": false
+    },
+    {
+      "id": "handcrafted:spruce_fancy_bed",
+      "required": false
+    },
+    {
+      "id": "handcrafted:spruce_dining_bench",
+      "required": false
+    },
+    {
+      "id": "handcrafted:spruce_nightstand",
+      "required": false
+    },
+    {
+      "id": "handcrafted:spruce_desk",
+      "required": false
+    },
+    {
+      "id": "handcrafted:spruce_side_table",
+      "required": false
+    },
+    {
+      "id": "handcrafted:spruce_counter",
+      "required": false
+    },
+    {
+      "id": "handcrafted:spruce_drawer",
+      "required": false
+    },
+    {
+      "id": "handcrafted:spruce_cupboard",
+      "required": false
+    },
+    {
+      "id": "handcrafted:spruce_shelf",
+      "required": false
+    },
+    {
+      "id": "handcrafted:spruce_pillar_trim",
+      "required": false
+    },
+    {
+      "id": "handcrafted:spruce_corner_trim",
+      "required": false
+    },
+    {
+      "id": "mcwfences:spruce_picket_fence",
+      "required": false
+    },
+    {
+      "id": "mcwfences:spruce_stockade_fence",
+      "required": false
+    },
+    {
+      "id": "mcwfences:spruce_horse_fence",
+      "required": false
+    },
+    {
+      "id": "mcwfences:spruce_wired_fence",
+      "required": false
+    },
+    {
+      "id": "mcwfences:spruce_highley_gate",
+      "required": false
+    },
+    {
+      "id": "mcwfences:spruce_pyramid_gate",
+      "required": false
+    },
+    {
+      "id": "mcwlights:spruce_tiki_torch",
+      "required": false
+    },
+    {
+      "id": "mcwlights:soul_spruce_tiki_torch",
+      "required": false
+    },
+    {
+      "id": "twigs:spruce_table",
+      "required": false
+    },
+    {
+      "id": "twilightforest:spruce_banister",
+      "required": false
+    },
+    {
+      "id": "twilightforest:hollow_spruce_log_vertical",
+      "required": false
+    },
+    {
+      "id": "wunderreich:spruce_wall",
+      "required": false
+    },
+    {
+      "id": "snowyspirit:sled_spruce",
+      "required": false
+    },
+    {
+      "id": "supplementaries:hanging_sign_spruce",
+      "required": false
+    }
+  ]
+}

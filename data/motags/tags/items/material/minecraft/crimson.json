@@ -1,0 +1,240 @@
+{
+  "values": [
+    "minecraft:crimson_planks",
+    "minecraft:crimson_stem",
+    "minecraft:stripped_crimson_stem",
+    "minecraft:stripped_crimson_hyphae",
+    "minecraft:crimson_hyphae",
+    "minecraft:crimson_slab",
+    "minecraft:crimson_fence",
+    "minecraft:crimson_stairs",
+    "minecraft:crimson_button",
+    "minecraft:crimson_pressure_plate",
+    "minecraft:crimson_door",
+    "minecraft:crimson_trapdoor",
+    "minecraft:crimson_fence_gate",
+    "minecraft:crimson_boat",
+    "minecraft:crimson_chest_boat",
+    "minecraft:crimson_sign",
+    {
+      "id": "betternether:crimson_taburet",
+      "required": false
+    },
+    {
+      "id": "betternether:crimson_chair",
+      "required": false
+    },
+    {
+      "id": "betternether:crimson_bar_stool",
+      "required": false
+    },
+    {
+      "id": "another_furniture:crimson_chair",
+      "required": false
+    },
+    {
+      "id": "another_furniture:crimson_shelf",
+      "required": false
+    },
+    {
+      "id": "another_furniture:crimson_table",
+      "required": false
+    },
+    {
+      "id": "another_furniture:crimson_shutter",
+      "required": false
+    },
+    {
+      "id": "another_furniture:crimson_planter_box",
+      "required": false
+    },
+    {
+      "id": "another_furniture:crimson_bench",
+      "required": false
+    },
+    {
+      "id": "another_furniture:crimson_drawer",
+      "required": false
+    },
+    {
+      "id": "beautify:crimson_trellis",
+      "required": false
+    },
+    {
+      "id": "beautify:crimson_blinds",
+      "required": false
+    },
+    {
+      "id": "beautify:crimson_picture_frame",
+      "required": false
+    },
+    {
+      "id": "campchair:crimson_camp_chair",
+      "required": false
+    },
+    {
+      "id": "create:crimson_window",
+      "required": false
+    },
+    {
+      "id": "create:crimson_window_pane",
+      "required": false
+    },
+    {
+      "id": "decorative_blocks:crimson_beam",
+      "required": false
+    },
+    {
+      "id": "decorative_blocks:crimson_seat",
+      "required": false
+    },
+    {
+      "id": "decorative_blocks:crimson_support",
+      "required": false
+    },
+    {
+      "id": "decorative_blocks:crimson_palisade",
+      "required": false
+    },
+    {
+      "id": "enchanted-vertical-slabs:vertical_crimson_slab",
+      "required": false
+    },
+    {
+      "id": "farmersdelight:crimson_cabinet",
+      "required": false
+    },
+    {
+      "id": "graveyard:crimson_coffin",
+      "required": false
+    },
+    {
+      "id": "halfdoors:crimson_halfdoor",
+      "required": false
+    },
+    {
+      "id": "handcrafted:crimson_board",
+      "required": false
+    },
+    {
+      "id": "handcrafted:crimson_chair",
+      "required": false
+    },
+    {
+      "id": "handcrafted:crimson_table",
+      "required": false
+    },
+    {
+      "id": "handcrafted:crimson_bench",
+      "required": false
+    },
+    {
+      "id": "handcrafted:crimson_couch",
+      "required": false
+    },
+    {
+      "id": "handcrafted:crimson_fancy_bed",
+      "required": false
+    },
+    {
+      "id": "handcrafted:crimson_dining_bench",
+      "required": false
+    },
+    {
+      "id": "handcrafted:crimson_nightstand",
+      "required": false
+    },
+    {
+      "id": "handcrafted:crimson_desk",
+      "required": false
+    },
+    {
+      "id": "handcrafted:crimson_side_table",
+      "required": false
+    },
+    {
+      "id": "handcrafted:crimson_counter",
+      "required": false
+    },
+    {
+      "id": "handcrafted:crimson_drawer",
+      "required": false
+    },
+    {
+      "id": "handcrafted:crimson_cupboard",
+      "required": false
+    },
+    {
+      "id": "handcrafted:crimson_shelf",
+      "required": false
+    },
+    {
+      "id": "handcrafted:crimson_pillar_trim",
+      "required": false
+    },
+    {
+      "id": "handcrafted:crimson_corner_trim",
+      "required": false
+    },
+    {
+      "id": "mcwfences:crimson_picket_fence",
+      "required": false
+    },
+    {
+      "id": "mcwfences:crimson_stockade_fence",
+      "required": false
+    },
+    {
+      "id": "mcwfences:crimson_horse_fence",
+      "required": false
+    },
+    {
+      "id": "mcwfences:crimson_wired_fence",
+      "required": false
+    },
+    {
+      "id": "mcwfences:crimson_highley_gate",
+      "required": false
+    },
+    {
+      "id": "mcwfences:crimson_pyramid_gate",
+      "required": false
+    },
+    {
+      "id": "mcwlights:crimson_tiki_torch",
+      "required": false
+    },
+    {
+      "id": "mcwlights:soul_crimson_tiki_torch",
+      "required": false
+    },
+    {
+      "id": "twigs:crimson_table",
+      "required": false
+    },
+    {
+      "id": "twigs:crimson_shroomlamp",
+      "required": false
+    },
+    {
+      "id": "twilightforest:crimson_banister",
+      "required": false
+    },
+    {
+      "id": "twilightforest:hollow_crimson_log_vertical",
+      "required": false
+    },
+    {
+      "id": "wunderreich:crimson_wall",
+      "required": false
+    },
+    {
+      "id": "snowyspirit:sled_crimson",
+      "required": false
+    },
+    {
+      "id": "supplementaries:hanging_sign_crimson",
+      "required": false
+    }
+  ]
+}

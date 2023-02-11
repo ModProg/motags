@@ -16,59 +16,221 @@
     "minecraft:birch_boat",
     "minecraft:birch_chest_boat",
     "minecraft:birch_sign",
-    "betternether:birch_taburet",
-    "betternether:birch_chair",
-    "betternether:birch_bar_stool",
-    "another_furniture:birch_chair",
-    "another_furniture:birch_shelf",
-    "another_furniture:birch_table",
-    "another_furniture:birch_shutter",
-    "another_furniture:birch_planter_box",
-    "another_furniture:birch_bench",
-    "another_furniture:birch_drawer",
-    "beautify:birch_trellis",
-    "beautify:birch_blinds",
-    "beautify:birch_picture_frame",
-    "campchair:birch_camp_chair",
-    "create:birch_window",
-    "create:birch_window_pane",
-    "decorative_blocks:birch_beam",
-    "decorative_blocks:birch_seat",
-    "decorative_blocks:birch_support",
-    "decorative_blocks:birch_palisade",
-    "enchanted-vertical-slabs:vertical_birch_slab",
-    "farmersdelight:birch_cabinet",
-    "graveyard:birch_coffin",
-    "halfdoors:birch_halfdoor",
-    "handcrafted:birch_board",
-    "handcrafted:birch_chair",
-    "handcrafted:birch_table",
-    "handcrafted:birch_bench",
-    "handcrafted:birch_couch",
-    "handcrafted:birch_fancy_bed",
-    "handcrafted:birch_dining_bench",
-    "handcrafted:birch_nightstand",
-    "handcrafted:birch_desk",
-    "handcrafted:birch_side_table",
-    "handcrafted:birch_counter",
-    "handcrafted:birch_drawer",
-    "handcrafted:birch_cupboard",
-    "handcrafted:birch_shelf",
-    "handcrafted:birch_pillar_trim",
-    "handcrafted:birch_corner_trim",
-    "mcwfences:birch_picket_fence",
-    "mcwfences:birch_stockade_fence",
-    "mcwfences:birch_horse_fence",
-    "mcwfences:birch_wired_fence",
-    "mcwfences:birch_highley_gate",
-    "mcwfences:birch_pyramid_gate",
-    "mcwlights:birch_tiki_torch",
-    "mcwlights:soul_birch_tiki_torch",
-    "twigs:birch_table",
-    "twilightforest:birch_banister",
-    "twilightforest:hollow_birch_log_vertical",
-    "wunderreich:birch_wall",
-    "snowyspirit:sled_birch",
-    "supplementaries:hanging_sign_birch"
+    {
+      "id": "betternether:birch_taburet",
+      "required": false
+    },
+    {
+      "id": "betternether:birch_chair",
+      "required": false
+    },
+    {
+      "id": "betternether:birch_bar_stool",
+      "required": false
+    },
+    {
+      "id": "another_furniture:birch_chair",
+      "required": false
+    },
+    {
+      "id": "another_furniture:birch_shelf",
+      "required": false
+    },
+    {
+      "id": "another_furniture:birch_table",
+      "required": false
+    },
+    {
+      "id": "another_furniture:birch_shutter",
+      "required": false
+    },
+    {
+      "id": "another_furniture:birch_planter_box",
+      "required": false
+    },
+    {
+      "id": "another_furniture:birch_bench",
+      "required": false
+    },
+    {
+      "id": "another_furniture:birch_drawer",
+      "required": false
+    },
+    {
+      "id": "beautify:birch_trellis",
+      "required": false
+    },
+    {
+      "id": "beautify:birch_blinds",
+      "required": false
+    },
+    {
+      "id": "beautify:birch_picture_frame",
+      "required": false
+    },
+    {
+      "id": "campchair:birch_camp_chair",
+      "required": false
+    },
+    {
+      "id": "create:birch_window",
+      "required": false
+    },
+    {
+      "id": "create:birch_window_pane",
+      "required": false
+    },
+    {
+      "id": "decorative_blocks:birch_beam",
+      "required": false
+    },
+    {
+      "id": "decorative_blocks:birch_seat",
+      "required": false
+    },
+    {
+      "id": "decorative_blocks:birch_support",
+      "required": false
+    },
+    {
+      "id": "decorative_blocks:birch_palisade",
+      "required": false
+    },
+    {
+      "id": "enchanted-vertical-slabs:vertical_birch_slab",
+      "required": false
+    },
+    {
+      "id": "farmersdelight:birch_cabinet",
+      "required": false
+    },
+    {
+      "id": "graveyard:birch_coffin",
+      "required": false
+    },
+    {
+      "id": "halfdoors:birch_halfdoor",
+      "required": false
+    },
+    {
+      "id": "handcrafted:birch_board",
+      "required": false
+    },
+    {
+      "id": "handcrafted:birch_chair",
+      "required": false
+    },
+    {
+      "id": "handcrafted:birch_table",
+      "required": false
+    },
+    {
+      "id": "handcrafted:birch_bench",
+      "required": false
+    },
+    {
+      "id": "handcrafted:birch_couch",
+      "required": false
+    },
+    {
+      "id": "handcrafted:birch_fancy_bed",
+      "required": false
+    },
+    {
+      "id": "handcrafted:birch_dining_bench",
+      "required": false
+    },
+    {
+      "id": "handcrafted:birch_nightstand",
+      "required": false
+    },
+    {
+      "id": "handcrafted:birch_desk",
+      "required": false
+    },
+    {
+      "id": "handcrafted:birch_side_table",
+      "required": false
+    },
+    {
+      "id": "handcrafted:birch_counter",
+      "required": false
+    },
+    {
+      "id": "handcrafted:birch_drawer",
+      "required": false
+    },
+    {
+      "id": "handcrafted:birch_cupboard",
+      "required": false
+    },
+    {
+      "id": "handcrafted:birch_shelf",
+      "required": false
+    },
+    {
+      "id": "handcrafted:birch_pillar_trim",
+      "required": false
+    },
+    {
+      "id": "handcrafted:birch_corner_trim",
+      "required": false
+    },
+    {
+      "id": "mcwfences:birch_picket_fence",
+      "required": false
+    },
+    {
+      "id": "mcwfences:birch_stockade_fence",
+      "required": false
+    },
+    {
+      "id": "mcwfences:birch_horse_fence",
+      "required": false
+    },
+    {
+      "id": "mcwfences:birch_wired_fence",
+      "required": false
+    },
+    {
+      "id": "mcwfences:birch_highley_gate",
+      "required": false
+    },
+    {
+      "id": "mcwfences:birch_pyramid_gate",
+      "required": false
+    },
+    {
+      "id": "mcwlights:birch_tiki_torch",
+      "required": false
+    },
+    {
+      "id": "mcwlights:soul_birch_tiki_torch",
+      "required": false
+    },
+    {
+      "id": "twigs:birch_table",
+      "required": false
+    },
+    {
+      "id": "twilightforest:birch_banister",
+      "required": false
+    },
+    {
+      "id": "twilightforest:hollow_birch_log_vertical",
+      "required": false
+    },
+    {
+      "id": "wunderreich:birch_wall",
+      "required": false
+    },
+    {
+      "id": "snowyspirit:sled_birch",
+      "required": false
+    },
+    {
+      "id": "supplementaries:hanging_sign_birch",
+      "required": false
+    }
   ]
 }
