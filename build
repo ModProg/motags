@@ -1,0 +1,3 @@
+#!/bin/bash
+./datapack-compiler
+zip -r motags.zip data pack.mcmeta > /dev/null
