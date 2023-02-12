@@ -1,5 +1,52 @@
 {
   "values": [
-    "#minecraft:wool"
+    "#minecraft:banners",
+    "#minecraft:beds",
+    "#minecraft:wool",
+    "#minecraft:wool_carpets",
+    {
+      "id": "#create:seats",
+      "required": false
+    },
+    {
+      "id": "#create:windmill_sails",
+      "required": false
+    },
+    {
+      "id": "#handcrafted:sheets",
+      "required": false
+    },
+    {
+      "id": "#handcrafted:cushions",
+      "required": false
+    },
+    {
+      "id": "#supplementaries:flags",
+      "required": false
+    },
+    {
+      "id": "#comforts:sleeping_bags",
+      "required": false
+    },
+    {
+      "id": "#comforts:hammocks",
+      "required": false
+    },
+    {
+      "id": "#another_furniture:stools",
+      "required": false
+    },
+    {
+      "id": "#another_furniture:tall_stools",
+      "required": false
+    },
+    {
+      "id": "#another_furniture:sofas",
+      "required": false
+    },
+    {
+      "id": "#another_furniture:curtains",
+      "required": false
+    }
   ]
 }

@@ -1,0 +1,69 @@
+{
+  "values": [
+    "#minecraft:terracotta",
+    "minecraft:white_glazed_terracotta",
+    "minecraft:orange_glazed_terracotta",
+    "minecraft:magenta_glazed_terracotta",
+    "minecraft:light_blue_glazed_terracotta",
+    "minecraft:yellow_glazed_terracotta",
+    "minecraft:lime_glazed_terracotta",
+    "minecraft:pink_glazed_terracotta",
+    "minecraft:gray_glazed_terracotta",
+    "minecraft:light_gray_glazed_terracotta",
+    "minecraft:cyan_glazed_terracotta",
+    "minecraft:purple_glazed_terracotta",
+    "minecraft:blue_glazed_terracotta",
+    "minecraft:brown_glazed_terracotta",
+    "minecraft:green_glazed_terracotta",
+    "minecraft:red_glazed_terracotta",
+    "minecraft:black_glazed_terracotta",
+    {
+      "id": "handcrafted:terracotta_cup",
+      "required": false
+    },
+    {
+      "id": "handcrafted:terracotta_plate",
+      "required": false
+    },
+    {
+      "id": "handcrafted:terracotta_bowl",
+      "required": false
+    },
+    {
+      "id": "handcrafted:white_cup",
+      "required": false
+    },
+    {
+      "id": "handcrafted:white_plate",
+      "required": false
+    },
+    {
+      "id": "handcrafted:white_bowl",
+      "required": false
+    },
+    {
+      "id": "handcrafted:yellow_cup",
+      "required": false
+    },
+    {
+      "id": "handcrafted:yellow_plate",
+      "required": false
+    },
+    {
+      "id": "handcrafted:yellow_bowl",
+      "required": false
+    },
+    {
+      "id": "handcrafted:blue_cup",
+      "required": false
+    },
+    {
+      "id": "handcrafted:blue_plate",
+      "required": false
+    },
+    {
+      "id": "handcrafted:blue_bowl",
+      "required": false
+    }
+  ]
+}

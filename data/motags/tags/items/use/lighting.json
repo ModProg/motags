@@ -1,0 +1,128 @@
+{
+  "values": [
+    "#minecraft:candles",
+    "minecraft:torch",
+    "minecraft:soul_torch",
+    "minecraft:redstone_torch",
+    "minecraft:jack_o_lantern",
+    "minecraft:sea_lantern",
+    "minecraft:lantern",
+    "minecraft:soul_lantern",
+    {
+      "id": "#twigs:paper_lanterns",
+      "required": false
+    },
+    {
+      "id": "#variant_lanterns:redstone_lanterns",
+      "required": false
+    },
+    {
+      "id": "#variant_lanterns:lanterns",
+      "required": false
+    },
+    {
+      "id": "betternether:willow_torch",
+      "required": false
+    },
+    {
+      "id": "betternether:cincinnasite_lantern",
+      "required": false
+    },
+    {
+      "id": "betternether:cincinnasite_lantern_small",
+      "required": false
+    },
+    {
+      "id": "betternether:whispering_gourd_lantern",
+      "required": false
+    },
+    {
+      "id": "betternether:flavolite_lantern",
+      "required": false
+    },
+    {
+      "id": "betterend:flavolite_lantern",
+      "required": false
+    },
+    {
+      "id": "mcwlights:oak_tiki_torch",
+      "required": false
+    },
+    {
+      "id": "mcwlights:soul_oak_tiki_torch",
+      "required": false
+    },
+    {
+      "id": "mcwlights:spruce_tiki_torch",
+      "required": false
+    },
+    {
+      "id": "mcwlights:soul_spruce_tiki_torch",
+      "required": false
+    },
+    {
+      "id": "mcwlights:birch_tiki_torch",
+      "required": false
+    },
+    {
+      "id": "mcwlights:soul_birch_tiki_torch",
+      "required": false
+    },
+    {
+      "id": "mcwlights:jungle_tiki_torch",
+      "required": false
+    },
+    {
+      "id": "mcwlights:soul_jungle_tiki_torch",
+      "required": false
+    },
+    {
+      "id": "mcwlights:acacia_tiki_torch",
+      "required": false
+    },
+    {
+      "id": "mcwlights:soul_acacia_tiki_torch",
+      "required": false
+    },
+    {
+      "id": "mcwlights:dark_oak_tiki_torch",
+      "required": false
+    },
+    {
+      "id": "mcwlights:soul_dark_oak_tiki_torch",
+      "required": false
+    },
+    {
+      "id": "mcwlights:mangrove_tiki_torch",
+      "required": false
+    },
+    {
+      "id": "mcwlights:soul_mangrove_tiki_torch",
+      "required": false
+    },
+    {
+      "id": "mcwlights:crimson_tiki_torch",
+      "required": false
+    },
+    {
+      "id": "mcwlights:soul_crimson_tiki_torch",
+      "required": false
+    },
+    {
+      "id": "mcwlights:warped_tiki_torch",
+      "required": false
+    },
+    {
+      "id": "mcwlights:soul_warped_tiki_torch",
+      "required": false
+    },
+    {
+      "id": "mcwlights:bamboo_tiki_torch",
+      "required": false
+    },
+    {
+      "id": "mcwlights:soul_bamboo_tiki_torch",
+      "required": false
+    }
+  ]
+}

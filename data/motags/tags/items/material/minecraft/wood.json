@@ -1,0 +1,53 @@
+{
+  "values": [
+    "minecraft:wooden_shovel",
+    "minecraft:wooden_pickaxe",
+    "minecraft:wooden_hoe",
+    "minecraft:wooden_axe",
+    "minecraft:stick",
+    "minecraft:crafting_table",
+    "minecraft:chest",
+    "minecraft:bowl",
+    "minecraft:barrel",
+    {
+      "id": "vinery:wine_rack_5",
+      "required": false
+    },
+    {
+      "id": "vinery:wine_rack_4",
+      "required": false
+    },
+    {
+      "id": "vinery:wine_rack_3",
+      "required": false
+    },
+    {
+      "id": "vinery:wine_rack_2",
+      "required": false
+    },
+    {
+      "id": "vinery:wine_rack_1",
+      "required": false
+    },
+    {
+      "id": "vinery:big_table",
+      "required": false
+    },
+    {
+      "id": "supplementaries:notice_board",
+      "required": false
+    },
+    {
+      "id": "farmersdelight:cutting_board",
+      "required": false
+    },
+    {
+      "id": "drinkbeer:trade_box_normal",
+      "required": false
+    },
+    {
+      "id": "drinkbeer:bartending_table_normal",
+      "required": false
+    }
+  ]
+}
