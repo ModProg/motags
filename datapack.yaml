@@ -217,6 +217,7 @@ data/motags/tags/items:
       bricks.json:
         values:
           - !namespaced minecraft:
+            - bricks
             - brick_wall
             - brick_stairs
             - brick_slab
