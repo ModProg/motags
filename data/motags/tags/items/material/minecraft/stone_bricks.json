@@ -1,0 +1,45 @@
+{
+  "values": [
+    "minecraft:stone_bricks",
+    "minecraft:stone_brick_wall",
+    "minecraft:stone_brick_stairs",
+    "minecraft:stone_brick_slab",
+    "minecraft:chiseled_stone_bricks",
+    {
+      "id": "twilightforest:spiral_bricks",
+      "required": false
+    },
+    {
+      "id": "graveyard:stone_bricks_gravestone",
+      "required": false
+    },
+    {
+      "id": "fwaystone:stone_brick_waystone",
+      "required": false
+    },
+    {
+      "id": "enchanted-vertical-slabs:vertical_stone_brick_slab",
+      "required": false
+    },
+    {
+      "id": "supplementaries:stone_tile",
+      "required": false
+    },
+    {
+      "id": "supplementaries:pedestal",
+      "required": false
+    },
+    {
+      "id": "mcwfences:modern_stone_brick_wall",
+      "required": false
+    },
+    {
+      "id": "mcwfences:railing_stone_brick_wall",
+      "required": false
+    },
+    {
+      "id": "mcwfences:stone_brick_railing_gate",
+      "required": false
+    }
+  ]
+}

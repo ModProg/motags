@@ -1,0 +1,43 @@
+{
+  "values": [
+    "minecraft:brick_wall",
+    "minecraft:brick_stairs",
+    "minecraft:brick_slab",
+    {
+      "id": "graveyard:bricks_gravestone",
+      "required": false
+    },
+    {
+      "id": "farmersdelight:stove",
+      "required": false
+    },
+    {
+      "id": "enchanted-vertical-slabs:vertical_brick_slab",
+      "required": false
+    },
+    {
+      "id": "twigs:chiseled_bricks",
+      "required": false
+    },
+    {
+      "id": "vinery:wood_fired_oven",
+      "required": false
+    },
+    {
+      "id": "vinery:stove",
+      "required": false
+    },
+    {
+      "id": "vinery:kitchen_sink",
+      "required": false
+    },
+    {
+      "id": "handcrafted:bricks_pillar_trim",
+      "required": false
+    },
+    {
+      "id": "handcrafted:bricks_corner_trim",
+      "required": false
+    }
+  ]
+}

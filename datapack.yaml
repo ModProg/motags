@@ -101,6 +101,28 @@ data/motags/tags/items:
                 - bold_stone_pillar
             - enchanted-vertical-slabs:vertical_stone_slab
             - decorative_blocks:stone_pillar
+      stone_bricks.json:
+        values:
+          - !namespaced minecraft:
+            - stone_bricks
+            - stone_brick_wall
+            - stone_brick_stairs
+            - stone_brick_slab
+            - chiseled_stone_bricks
+          - !optionalTag
+            - twilightforest:spiral_bricks
+            - graveyard:stone_bricks_gravestone
+            - fwaystone:stone_brick_waystone
+            - enchanted-vertical-slabs:vertical_stone_brick_slab
+            - !namespaced
+              supplementaries:
+                - stone_tile
+                - pedestal
+              mcwfences:
+                - modern_stone_brick_wall
+                - railing_stone_brick_wall
+                - stone_brick_railing_gate
+
       tuff.json:
         values:
           - !namespaced minecraft:
@@ -176,8 +198,52 @@ data/motags/tags/items:
             - '#another_furniture:tall_stools'
             - '#another_furniture:sofas'
             - '#another_furniture:curtains'
+      mud.json:
+        values:
+          - !namespaced minecraft:
+              - mud
+              - muddy_mangrove_roots
+              - mud_brick_slab
+              - packed_mud
+              - mud_bricks
+              - mud_brick_stairs
+              - mud_brick_wall
+          - !optionalTag
+            - enchanted-vertical-slabs:vertical_mud_brick_slab
+            - !namespaced mcwfences:
+              - modern_mud_brick_wall
+              - railing_mud_brick_wall
+              - mud_brick_railing_gatemud_bric
+      bricks.json:
+        values:
+          - !namespaced minecraft:
+            - brick_wall
+            - brick_stairs
+            - brick_slab
+          - !optionalTag
+            - graveyard:bricks_gravestone
+            - farmersdelight:stove
+            - enchanted-vertical-slabs:vertical_brick_slab
+            - twigs:chiseled_bricks
+            - !namespaced
+                vinery:
+                  - wood_fired_oven
+                  - stove
+                  - kitchen_sink
+                handcrafted:
+                  - bricks_pillar_trim
+                  - bricks_corner_trim
       wood.json:
         values:
+          - "#motags:material/minecraft/oak"
+          - "#motags:material/minecraft/spruce"
+          - "#motags:material/minecraft/birch"
+          - "#motags:material/minecraft/jungle"
+          - "#motags:material/minecraft/acacia"
+          - "#motags:material/minecraft/dark_oak"
+          - "#motags:material/minecraft/mangrove"
+          - "#motags:material/minecraft/crimson"
+          - "#motags:material/minecraft/warped"
           - !namespaced minecraft:
                 - wooden_shovel
                 - wooden_pickaxe
@@ -188,7 +254,12 @@ data/motags/tags/items:
                 - chest
                 - bowl
                 - barrel
+                - campfire
+                - soul_campfire
+                - ladder
           - !optionalTag
+            - craftingcraft:protable_crafting
+            - "#farmersdelight:canvas_signs"
             - !namespaced 
               vinery:
                 - wine_rack_5
@@ -196,14 +267,23 @@ data/motags/tags/items:
                 - wine_rack_3
                 - wine_rack_2
                 - wine_rack_1
+                - table
                 - big_table
+                - wine_press
+                - stackable_log
+                - fermentation_barrel
+                - chair
               supplementaries:
                 - notice_board
+                - timber_cross_brace
+                - timber_brace
               farmersdelight:
                 - cutting_board
               drinkbeer:
                 - trade_box_normal
                 - bartending_table_normal
+              decorative_blocks:
+                - lattice
       terracotta.json:
         values:
           - '#minecraft:terracotta'
@@ -1102,6 +1182,13 @@ data/motags/tags/items:
               - mossy_cobblestone_brick_slab
               - mossy_cobblestone_brick_stairs
               - mossy_cobblestone_brick_wall
+      mossy_bricks.json:
+        values:
+          - !namespaced twigs:
+            - mossy_bricks
+            - mossy_brick_wall
+            - mossy_brick_stairs
+            - mossy_brick_slab
 # #acacia_logs
 #     decorative_blocks:acacia_beam
 #     acacia_log
@@ -4681,7 +4768,7 @@ data/motags/tags/items:
 #     deepslate_lapis_ore
 #     deepslate_redstone_ore
 #     create:deepslate_zinc_ore
-#     diamond_ore
+#     diamond_ore - cron:
 #     emerald_ore
 #     gold_ore
 #     iron_ore

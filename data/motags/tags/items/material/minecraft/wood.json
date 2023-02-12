@@ -1,5 +1,14 @@
 {
   "values": [
+    "#motags:material/minecraft/oak",
+    "#motags:material/minecraft/spruce",
+    "#motags:material/minecraft/birch",
+    "#motags:material/minecraft/jungle",
+    "#motags:material/minecraft/acacia",
+    "#motags:material/minecraft/dark_oak",
+    "#motags:material/minecraft/mangrove",
+    "#motags:material/minecraft/crimson",
+    "#motags:material/minecraft/warped",
     "minecraft:wooden_shovel",
     "minecraft:wooden_pickaxe",
     "minecraft:wooden_hoe",
@@ -9,6 +18,17 @@
     "minecraft:chest",
     "minecraft:bowl",
     "minecraft:barrel",
+    "minecraft:campfire",
+    "minecraft:soul_campfire",
+    "minecraft:ladder",
+    {
+      "id": "craftingcraft:protable_crafting",
+      "required": false
+    },
+    {
+      "id": "#farmersdelight:canvas_signs",
+      "required": false
+    },
     {
       "id": "vinery:wine_rack_5",
       "required": false
@@ -30,11 +50,39 @@
       "required": false
     },
     {
+      "id": "vinery:table",
+      "required": false
+    },
+    {
       "id": "vinery:big_table",
       "required": false
     },
     {
+      "id": "vinery:wine_press",
+      "required": false
+    },
+    {
+      "id": "vinery:stackable_log",
+      "required": false
+    },
+    {
+      "id": "vinery:fermentation_barrel",
+      "required": false
+    },
+    {
+      "id": "vinery:chair",
+      "required": false
+    },
+    {
       "id": "supplementaries:notice_board",
+      "required": false
+    },
+    {
+      "id": "supplementaries:timber_cross_brace",
+      "required": false
+    },
+    {
+      "id": "supplementaries:timber_brace",
       "required": false
     },
     {
@@ -47,6 +95,10 @@
     },
     {
       "id": "drinkbeer:bartending_table_normal",
+      "required": false
+    },
+    {
+      "id": "decorative_blocks:lattice",
       "required": false
     }
   ]
