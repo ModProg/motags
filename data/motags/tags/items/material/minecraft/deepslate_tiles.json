@@ -1,0 +1,13 @@
+{
+  "values": [
+    "minecraft:deepslate_tiles",
+    "minecraft:deepslate_tile_wall",
+    "minecraft:deepslate_tile_stairs",
+    "minecraft:deepslate_tile_slab",
+    "minecraft:cracked_deepslate_tiles",
+    {
+      "id": "enchanted-vertical-slabs:vertical_deepslate_tile_slab",
+      "required": false
+    }
+  ]
+}

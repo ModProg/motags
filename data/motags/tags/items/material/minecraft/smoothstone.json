@@ -1,0 +1,12 @@
+{
+  "values": [
+    "minecraft:smoothstone",
+    "minecraft:smoothstone_slab",
+    "minecraft:smoothstone_stairs",
+    "minecraft:smoothstone_wall",
+    {
+      "id": "enchanted-vertical-slabs:vertical_smoothstone_slab",
+      "required": false
+    }
+  ]
+}

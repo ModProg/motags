@@ -51,6 +51,89 @@ data/motags/tags/items:
               - soul_bamboo_tiki_torch
   material:
     minecraft:
+      deepslate.json:
+        values:
+          - !namespaced minecraft:
+              - deepslate
+          - !optionalTag
+            - "#create:stone_types/deepslate"
+            - "#chipped:deepslate"
+            - supplementaries:deepslate_lamp
+            - graveyard:deepslate_gravestone
+            - !namespaced
+              handcrafted:
+                - deepslate_pillar_trim
+                - deepslate_corner_trim
+              mcwfences:
+                - modern_deepslate_wall
+                - railing_deepslate_wall
+                - deepslate_railing_gate
+      deepslate_bricks.json:
+        values:
+          - !namespaced minecraft:
+              - deepslate_bricks
+              - deepslate_brick_wall
+              - deepslate_brick_stairs
+              - deepslate_brick_slab
+              - cracked_deepslate_bricks
+          - !optionalTag
+            - enchanted-vertical-slabs:vertical_deepslate_brick_slab
+            - !namespaced
+              mcwfences:
+                - modern_deepslate_brick_wall
+                - railing_deepslate_brick_wall
+                - deepslate_brick_railing_gate
+      deepslate_tiles.json:
+        values:
+          - !namespaced minecraft:
+              - deepslate_tiles
+              - deepslate_tile_wall
+              - deepslate_tile_stairs
+              - deepslate_tile_slab
+              - cracked_deepslate_tiles
+          - !optionalTag
+            - enchanted-vertical-slabs:vertical_deepslate_tile_slab
+      cobbled_deepslate.json:
+        values:
+          - !namespaced minecraft:
+              - cobbled_deepslate
+              - cobbled_deepslate_wall
+              - cobbled_deepslate_stairs
+              - cobbled_deepslate_slab
+              - cracked_cobbled_deepslate
+          - !optionalTag
+            - enchanted-vertical-slabs:vertical_cobbled_deepslate_slab
+      andesite.json:
+        values:
+          - !namespaced minecraft:
+              - andesite
+              - andesite_slab
+              - andesite_stairs
+              - andesite_wall
+          - !optionalTag
+            - "#create:stone_types/andesite"
+            - "#chipped:andesite"
+            - enchanted-vertical-slabs:vertical_andesite_slab
+            - !namespaced
+              handcrafted:
+                - andesite_pillar_trim
+                - andesite_corner_trim
+              mcwfences:
+                - modern_andesite_wall
+                - railing_andesite_wall
+                - andesite_railing_gate
+              betterend:
+                - andesite_pedestal
+                - andesite_lantern
+      polished_andesite.json:
+        values:
+          - !namespaced minecraft:
+              - polished_andesite
+              - polished_andesite_slab
+              - polished_andesite_stairs
+              - polished_andesite_wall
+          - !optionalTag
+            - enchanted-vertical-slabs:vertical_polished_andesite_slab
       cobblestone.json:
         values:
           - !namespaced minecraft:
@@ -61,6 +144,15 @@ data/motags/tags/items:
           - id: enchanted-vertical-slabs:vertical_cobblestone_slab
             required: false
           - id: graveyard:cobblestone_gravestone
+            required: false
+      smoothstone.json:
+        values:
+          - !namespaced minecraft:
+              - smoothstone
+              - smoothstone_slab
+              - smoothstone_stairs
+              - smoothstone_wall
+          - id: enchanted-vertical-slabs:vertical_smoothstone_slab
             required: false
       mossy_cobblestone.json:
         values:

@@ -1,0 +1,25 @@
+{
+  "values": [
+    "minecraft:deepslate_bricks",
+    "minecraft:deepslate_brick_wall",
+    "minecraft:deepslate_brick_stairs",
+    "minecraft:deepslate_brick_slab",
+    "minecraft:cracked_deepslate_bricks",
+    {
+      "id": "enchanted-vertical-slabs:vertical_deepslate_brick_slab",
+      "required": false
+    },
+    {
+      "id": "mcwfences:modern_deepslate_brick_wall",
+      "required": false
+    },
+    {
+      "id": "mcwfences:railing_deepslate_brick_wall",
+      "required": false
+    },
+    {
+      "id": "mcwfences:deepslate_brick_railing_gate",
+      "required": false
+    }
+  ]
+}

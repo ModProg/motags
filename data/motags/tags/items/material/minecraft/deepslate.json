@@ -1,0 +1,41 @@
+{
+  "values": [
+    "minecraft:deepslate",
+    {
+      "id": "#create:stone_types/deepslate",
+      "required": false
+    },
+    {
+      "id": "#chipped:deepslate",
+      "required": false
+    },
+    {
+      "id": "supplementaries:deepslate_lamp",
+      "required": false
+    },
+    {
+      "id": "graveyard:deepslate_gravestone",
+      "required": false
+    },
+    {
+      "id": "handcrafted:deepslate_pillar_trim",
+      "required": false
+    },
+    {
+      "id": "handcrafted:deepslate_corner_trim",
+      "required": false
+    },
+    {
+      "id": "mcwfences:modern_deepslate_wall",
+      "required": false
+    },
+    {
+      "id": "mcwfences:railing_deepslate_wall",
+      "required": false
+    },
+    {
+      "id": "mcwfences:deepslate_railing_gate",
+      "required": false
+    }
+  ]
+}

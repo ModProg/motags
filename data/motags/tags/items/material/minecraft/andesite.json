@@ -1,0 +1,48 @@
+{
+  "values": [
+    "minecraft:andesite",
+    "minecraft:andesite_slab",
+    "minecraft:andesite_stairs",
+    "minecraft:andesite_wall",
+    {
+      "id": "#create:stone_types/andesite",
+      "required": false
+    },
+    {
+      "id": "#chipped:andesite",
+      "required": false
+    },
+    {
+      "id": "enchanted-vertical-slabs:vertical_andesite_slab",
+      "required": false
+    },
+    {
+      "id": "handcrafted:andesite_pillar_trim",
+      "required": false
+    },
+    {
+      "id": "handcrafted:andesite_corner_trim",
+      "required": false
+    },
+    {
+      "id": "mcwfences:modern_andesite_wall",
+      "required": false
+    },
+    {
+      "id": "mcwfences:railing_andesite_wall",
+      "required": false
+    },
+    {
+      "id": "mcwfences:andesite_railing_gate",
+      "required": false
+    },
+    {
+      "id": "betterend:andesite_pedestal",
+      "required": false
+    },
+    {
+      "id": "betterend:andesite_lantern",
+      "required": false
+    }
+  ]
+}
